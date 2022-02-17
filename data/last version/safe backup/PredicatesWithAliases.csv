@@ -1,0 +1,30 @@
+Predicates,Data-Type,Label,Aliases
+Has Wikidata Code,external-id,Corresponding Wikidata code for the concept,
+Has Wikidata Identifier,external-id,Corresponding Wikidata code for the concept,
+Has Topic ,wikibase-item,The topic of the article,Addresses a topic
+Has CRPD Text,string,CRPD Text ,Relates to  
+Has Wikidata Definition,string,Definion from Wikidata,Qualify
+Has Wikidata Definition Extension,string,Extention Definion from Wikidata,
+Has Subtopic,wikibase-item,Sub topic of the article,Composed of 
+Mentioned In CRPD Article,wikibase-item,Found in CRPD Article,Refers to
+Requires Wikidata Definition Extension,string,Wikidata Definition Extension is Required,
+Requires ,wikibase-item,,Protects right
+Prohibits,wikibase-item,,
+Complies With,wikibase-item,,Encourages
+Avoids,wikibase-item,,Discourages 
+Is,wikibase-item,Jurisdiction and UN convention,Ratified by 
+Should Be In,wikibase-item,,Aligns with
+Shall Be,string,Topic is hindered by a barrier,Hindered by
+Has CRPD Definition,string,Definition from CRPD Document,
+Require Wikidata Definition ,string,Wikidata Definition is Required,
+Wikidata reference,url,Has wikidata entity link,
+Has substitute item,wikibase-item,"This is generally a duplicate item found in different data sources, about the same concept as another entity/item. ",
+Has wikidata substitute item,wikibase-item,"This is generally a duplicate item found in wikidata, about the same concept as another entity/item. ",
+Has definition,string,Definition from relevant source,
+has text,string,contains related text,Text from a article
+according to,wikibase-item,according to linked resource,pointing to a source resource
+mentioned in,wikibase-item,mentioned in a related document,pointing to a source resource
+has text related,string,contains related text,
+has origin,wikibase-item,pointing to a source document,
+has definition extension,string,additional definition to an existing definition,
+Instance of,wikibase-item,that class of which this subject is a particular example and member,

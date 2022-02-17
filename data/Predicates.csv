@@ -1,0 +1,22 @@
+Predicates,Data-Type,Label
+Has Wikidata Code,external-id,Corresponding Wikidata code for the concept
+Has Wikidata Identifier,external-id,Corresponding Wikidata code for the concept
+Has Topic ,wikibase-item,The topic of the article
+Has CRPD Text,string,CRPD Text 
+Has Wikidata Definition,string,Definion from Wikidata
+Has Wikidata Definition Extension,string,Extention Definion from Wikidata
+Has Subtopic,wikibase-item,Sub topic of the article
+Mentioned In CRPD Article,wikibase-item,Found in CRPD Article
+Requires Wikidata Definition Extension,string,Requires Wikidata Definition Extension
+Requires ,wikibase-item,
+Prohibits,wikibase-item,
+Complies With,wikibase-item,
+Avoids,wikibase-item,
+Is,wikibase-item,
+Should Be In,wikibase-item,
+Shall Be,string,
+Has CRPD Definition,string,Definition from CRPD Document
+Require Wikidata Definition ,string,Require Wikidata Definition 
+Wikidata reference,url,Has wikidata entity link
+Has substitute item,wikibase-item,"This is generally a duplicate item found in different data sources, about the same concept as another entity/item. "
+Has wikidata substitute item,wikibase-item,"This is generally a duplicate item found in wikidata, about the same concept as another entity/item. "

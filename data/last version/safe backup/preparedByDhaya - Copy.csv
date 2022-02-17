@@ -1,0 +1,383 @@
+Article Number,Subject,Relation,Attributes
+25,Crpd Article 25,Has topic ,Health
+25,Crpd Article 25,has wiki data code ,Q1512929
+25,Crpd Article 25,Has subtopic ,equity 
+25,equity ,has definition (disability wiki) ,the quality of being fair and impartial.
+25,Health,Has wikidata code,Q12147
+25,Health,Has crpd text,"Provide persons with disabilities with the same range, quality and standard of free or affordable health care and programmes as provided to other persons, including in the area of sexual and reproductive health and population-based public health programmes; "
+25,Health,Has wikidata definition,"state of physical, mental and social well-being in the absence of disease and infirmity"
+25,Health,Has crpd definition,Equal Standard of Care regardless of disability
+25,Crpd Article 25,Has subtopic,Rural Areas
+,Rural Areas,Mentioned in crpd article,25
+25,Rural Area,Has wikidata definition,geographic area that is located outside towns and cities
+25,Rural Area,Has wikidata code,Q175185
+25,Crpd Article 25,Has subtopic,Preventative Measures
+,Preventative Measures,Mentioned in crpd article,25
+25,Preventative Measures,Has crpd text,"Provide those health services needed by persons with disabilities specifically because of their disabilities, including early identification and intervention as appropriate, and services designed to minimize and prevent further disabilities, including among children and older persons;"
+25,Preventative Measures,Has crpd definition,Provide early identification and intervention 
+25,Crpd Article 25,Has subtopic,Quality of Care
+,Quality of Care,Mentioned in crpd article,25
+25,Quality of Care,Has wikidata code,Q60649344
+25,Quality of Care,Has crpd definition,"Provide persons with disabilities with the same range, quality and standard of health care on the basis of free and informed consent by raising awareness of the human rights, dignity, autonomy and needs of persons with disabilities through training and the promulgation of ethical standards for public and private health care"
+25,Crpd Article 25,Has subtopic,Human Rights 
+,Human Rights ,Mentioned in crpd article,25
+25,Human Rights,Has wikidata code,Q8458
+25,Crpd Article 25,Has subtopic,Services
+,Services ,Mentioned in crpd article,25
+25,Crpd Article 25,Has topic ,Discrimination
+25,Discrimination,Has wikidata code,Q169207
+25,Quality of Care,Has crpd definition,Prevent discriminatory denial of health care or health services or food and fluids on the basis of disability or capacity. 
+25,Crpd Article 25,Has subtopic,Equality
+,equality ,Mentioned in crpd article,25
+1,Crpd Article 1,Has crpd text,"The purpose of the present Convention is to promote, protect and ensure the full and equal enjoyment of all human rights and fundamental freedoms by all persons with disabilities, and to promote respect for their inherent dignity. Persons with disabilities include those who have long-term physical, mental, intellectual or sensory impairments which in interaction with various barriers may hinder their full and effective participation in society on an equal basis with others."
+1,Crpd Article 1,Has subtopic ,equity 
+1,human rights ,Has subtopic,human rights 
+,Human Rights,Mentioned in crpd article,1
+1,human rights,Has wikidata code,Q8458
+1,dignity ,Has subtopic,dignity 
+,dignity ,Mentioned in crpd article,1
+1,dignity ,Has wikidata definition,Quality of being deserving of respect
+1,dignity ,Has wikidata code,Q274782
+1,impairment ,Has subtopic,impairment 
+,impairment ,Mentioned in crpd article,1
+1,impairment ,Has wikidata code,Missing 
+1,impairment ,has definition (disability wiki) ,a degree of physical or mental impairment
+1,Barrier ,Has subtopic,Barrier
+,Barrier ,Mentioned in crpd article,1
+1,Barrier ,Has wikidata code,missing 
+1,Barrier,has definition (disability wiki) ,an obstacle 
+1,Participation ,Has subtopic,participation 
+,participation ,Mentioned in crpd article,1
+1,Participation ,Has wikidata code,Q1773152
+1,Disability ,Has subtopic,Disability
+,,Has wikidata code,Q12131
+,disability ,Mentioned in crpd article,1
+1,Disability ,Has wikidata definition,"impairments, activity limitations, and participation restrictions"
+2,Crpd Article 2,Has crpd text,"Communication includes languages, display of text, Braille, tactile communication, large print, accessible multimedia as well as written, audio, plain-language, human-reader and augmentative and alternative modes, means and formats of communication, including accessible information and communication technology; ?Language? includes spoken and signed languages and other forms of non spoken languages; ?Discrimination on the basis of disability? means any distinction, exclusion or restriction on the basis of disability which has the purpose or effect of impairing or nullifying the recognition, enjoyment or exercise, on an equal basis with others, of all human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field. It includes all forms of discrimination, including denial of reasonable accommodation; ?Reasonable accommodation? means necessary and appropriate modification and adjustments not imposing a disproportionate or undue burden, where needed in a particular case, to ensure to persons with disabilities the enjoyment or exercise on an equal basis with others of all human rights and fundamental freedoms; ?Universal design? means the design of products, environments, programmes and services to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design. ?Universal design? shall not exclude assistive devices for particular groups of persons with disabilities where this is needed."
+2,Crpd Article 2,Has subtopic ,equity 
+2,Communication,Has subtopic,Communication
+,communication ,Mentioned in crpd article,2
+2,communication,Has wikidata code,Q11024
+2,communication,Has wikidata definition ,act of conveying intended meanings from one entity or group to another through the use of mutually understood signs and rules
+2,communication,Has crpd definition,"communication includes languages, display of text, Braille, tactile communication, large print, accessible multimedia as well as written, audio, plain-language, human-reader and augmentative and alternative modes, means and formats of communication, including accessible information and communication technology"
+2,impairment ,Has wikidata definition,"impairments, activity limitations, and participation restrictions"
+2,Braille ,Has subtopic,Braille
+,braille ,Mentioned in crpd article,2
+2,braille,Has wikidata code,Q79894
+2,Braille ,Has wikidata definition,writing system for blind and visually impaired people
+2,Plain Language ,Has subtopic,plain language 
+,plain Language ,Mentioned in crpd article,2
+2,Plain Language ,Has wikidata code,Q1814648
+2,Plain Language ,Has wikidata definition,"writing designed to ensure the reader understands as quickly, easily, and completely as possible"
+2,communication ,Has subtopic,language
+2,Language ,Has wikidata code,Q315
+2,Language,Has wikidata definition,"particular system of communication, usually named for the region or peoples that use it"
+2,Crpd Article 2,Has crpd definition,includes spoken and signed languages and other forms of non spoken languages
+2,Crpd Article 2,Has subtopic,Discrimination
+,Discrimination,Mentioned in crpd article,2
+2,Discrimination ,Has wikidata code,Q169207
+2,Discrimination ,Has wikidata definition,prejudicial treatment based on membership in a certain group
+2,Discrimination ,Has crpd definition,"?Discrimination on the basis of disability? means any distinction, exclusion or restriction on the basis of disability which has the purpose or effect of impairing or nullifying the recognition, enjoyment or exercise, on an equal basis with others, of all human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field. It includes all forms of discrimination, including denial of reasonable accommodation;"
+2,reasonable accommodation ,Has subtopic,reasonable accommodation 
+2,reasonable accommodation ,Has wikidata code,missing 
+2,reasonable accommodation ,Has crpd definition,"?Reasonable accommodation? means necessary and appropriate modification and adjustments not imposing a disproportionate or undue burden, where needed in a particular case, to ensure to persons with disabilities the enjoyment or exercise on an equal basis with others of all human rights and fundamental freedoms;"
+2,universal design ,Has subtopic,universal design 
+,universal design ,Mentioned in crpd article,2
+2,universal design ,Has wikidata code,Q781118
+2,universal design ,Has wikidata definition,"design of buildings, products or environments to make them accessible to all people"
+2,universal design ,Has crpd definition,"means the design of products, environments, programmes and services to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design. ?Universal design? shall not exclude assistive devices for particular groups of persons with disabilities where this is needed."
+3,Crpd Article 3 ,Has crpd text,"Respect for inherent dignity, individual autonomy including the freedom to make one?s own choices, and independence of persons; Non-discrimination; Full and effective participation and inclusion in society; Respect for difference and acceptance of persons with disabilities as part of human diversity and humanity; Equality of opportunity; Accessibility; Equality between men and women; Respect for the evolving capacities of children with disabilities and respect for the right of children with disabilities to preserve their identities."
+3,Crpd Article 3 ,Has subtopic ,equity 
+3,Crpd Article 3 ,Has subtopic,autonomy 
+,Autonomy,Mentioned in crpd article,3
+3,Autonomy,Has wikidata code,missing 
+3,Autonomy,Has crpd definition,"the freedom to make one?s own choices, and independence of persons"
+3,Crpd Article 3 ,Has subtopic,(social) inclusion 
+,social inclusion ,Mentioned in crpd article,3
+3,social inclusion ,Has wikidata code,Q3149923
+3,social inclusion ,Has wikidata definition,affirmative action to change the circumstances and habits that lead to (or have led to) social exclusion
+3,Crpd Article 3 ,Has subtopic,equal opportunity 
+,equal opportunity ,Mentioned in crpd article,3
+3,equal opportunity ,Has wikidata code,Q912512
+3,equal opportunity ,Has wikidata definition,Similar treatment of all people
+3,equal opportunity ,Has crpd definition,should this included a definition extension about equity? 
+3,Crpd Article 3 ,Has subtopic,accessibility
+,accessibility ,Mentioned in crpd article,3
+3,accessibility ,Has wikidata code,Q555097
+3,accessibility ,Has wikidata definition,design of products or services for people with temporary or permanent impairments
+3,Crpd Article 3 ,Has subtopic,gender equality 
+,gender equality ,Mentioned in crpd article,3
+3,gender equality ,Has wikidata code,Q113453
+3,gender equality ,Has wikidata definition,"state of equal ease of access to resources and opportunities regardless of gender, including economic participation and decision-making"
+3,Crpd Article 3 ,Has subtopic,Respect
+,respect ,Mentioned in crpd article,3
+3,respect ,Has wikidata code,Q28510
+3,respect ,Has wikidata definition,feeling of regard for someone or something
+3,respect ,Has crpd definition,includes: Respect for the evolving capacities of children with disabilities and respect for the right of children with disabilities to preserve their identities.
+4,Crpd Article 4 ,Has crpd text,"States Parties undertake to ensure and promote the full realization of all human rights and fundamental freedoms for all persons with disabilities without discrimination of any kind on the basis of disability. To this end, States Parties undertake:
+a) To adopt all appropriate legislative, administrative and other measures for the implementation of the rights recognized in the present Convention;
+b) To take all appropriate measures, including legislation, to modify or abolish existing laws, regulations, customs and practices that constitute discrimination against persons with disabilities;
+c) To take into account the protection and promotion of the human rights of persons with disabilities in all policies and programmes;
+d) To refrain from engaging in any act or practice that is inconsistent with the present Convention and to ensure that public authorities and institutions act in conformity with the present Convention;
+e) To take all appropriate measures to eliminate discrimination on the basis of disability by any person, organization or private enterprise;
+f) To undertake or promote research and development of universally designed goods, services, equipment and facilities, as defined in article 2 of the present Convention, which should require the minimum possible adaptation and the least cost to meet the specific needs of a person with disabilities, to promote their availability and use, and to promote universal design in the development of standards and guidelines;
+g) To undertake or promote research and development of, and to promote the availability and use of new technologies, including information and communications technologies, mobility aids, devices and assistive technologies, suitable for persons with disabilities, giving priority to technologies at an affordable cost;
+h) To provide accessible information to persons with disabilities about mobility aids, devices and assistive technologies, including new technologies, as well as other forms of assistance, support services and facilities;
+i) To promote the training of professionals and staff working with persons with disabilities in the rights recognized in the present Convention so as to better provide the assistance and services guaranteed by those rights.
+2. With regard to economic, social and cultural rights, each State Party undertakes to take measures to the maximum of its available resources and, where needed, within the framework of international cooperation, with a view to achieving progressively the full realization of these rights, without prejudice to those obligations contained in the present Convention that are immediately applicable according to international law.
+3. In the development and implementation of legislation and policies to implement the present Convention, and in other decision-making processes concerning issues relating to persons with disabilities, States Parties shall closely consult with and actively involve persons with disabilities, including children with disabilities, through their representative organizations.
+4. Nothing in the present Convention shall affect any provisions which are more conducive to the realization of the rights of persons with disabilities and which may be contained in the law of a State Party or international law in force for that State. There shall be no restriction upon or derogation from any of the human rights and fundamental freedoms recognized or existing in any State Party to the present Convention pursuant to law, conventions, regulation or custom on the pretext that the present Convention does not recognize such rights or freedoms or that it recognizes them to a lesser extent.
+"
+4,Crpd Article 4 ,Has subtopic ,equity 
+4,equity ,Has wikidata code,Missing 
+4,equity ,has definition (disability wiki) ,the quality of being fair and impartial
+5,Crpd Article 5 ,Has crpd text,"States Parties recognize that all persons are equal before and under the law and are entitled without any discrimination to the equal protection and equal benefit of the law.; States Parties shall prohibit all discrimination on the basis of disability and guarantee to persons with disabilities equal and effective legal protection against discrimination on all grounds.; In order to promote equality and eliminate discrimination, States Parties shall take all appropriate steps to ensure that reasonable accommodation is provided.; Specific measures which are necessary to accelerate or achieve de facto equality of persons with disabilities shall not be considered discrimination under the terms of the present Convention."
+5,Crpd Article 5 ,Has subtopic ,equity 
+4,equity ,has definition (disability wiki) ,the quality of being fair and impartial
+5,Crpd Article 5 ,Has subtopic,discrimination 
+5,Crpd Article 5 ,has definition (disability wiki) ,the quality of being fair and impartial
+,Discrimination,Mentioned in crpd article,5
+5,discrimination ,Has wikidata code,Q169207
+5,discrimination ,Has wikidata definition,prejudicial treatment based on membership in a certain group
+5,discrimination ,Has wikidata definition-extension,States Parties shall prohibit all discrimination on the basis of disability and guarantee to persons with disabilities equal and effective legal protection against discrimination on all grounds
+5,Crpd Article 5 ,Has subtopic,equality 
+,equality ,Mentioned in crpd article,5
+5,equality ,Has wikidata code,Q773009
+5,,Has wikidata definition,equal treatment of people
+5,Crpd Article 5 ,requires-wikidata-definition-extension,"in order to promote equality and eliminate discrimination, States Parties shall take all appropriate steps to ensure that reasonable accommodation is provided.; specific measures which are necessary to accelerate or achieve de facto equality of persons with disabilities shall not be considered discrimination under the terms of the present Convention."
+6,Crpd Article 6 ,Has crpd text,"1. States Parties recognize that women and girls with disabilities are subject to multiple discrimination, and in this regard shall take measures to ensure the full and equal enjoyment by them of all human rights and fundamental freedoms; 2. States Parties shall take all appropriate measures to ensure the full development, advancement and empowerment of women, for the purpose of guaranteeing them the exercise and enjoyment of the human rights and fundamental freedoms set out in the present Convention."
+6,Crpd Article 6 ,Has subtopic ,equity 
+6,Crpd Article 6 ,Has subtopic,women 
+,women ,Mentioned in crpd article,6
+6,women ,Has wikidata code,Q467
+6,women ,Has wikidata definition,Female adult human
+6,Crpd Article 6 ,Has subtopic,discrimination 
+6,discrimination ,Has wikidata code,Q169207
+6,Crpd Article 6 ,Has crpd definition,women and girls with disabilities are subject to multiple discrimination
+6,Crpd Article 6 ,Has subtopic,human rights 
+,human rights ,Mentioned in crpd article,6
+6,human rights ,Has wikidata code,Q8458
+6,human rights ,Has wikidata definition,inalienable fundamental rights to which a person is inherently entitled
+6,human rights ,Has crpd definition,"States Parties shall take all appropriate measures to ensure the full development, advancement and empowerment of women, for the purpose of guaranteeing them the exercise and enjoyment of the human rights and fundamental freedoms set out in the present Convention."
+7,Crpd Article 7 ,Has crpd text,"1. States Parties shall take all necessary measures to ensure the full enjoyment by children with disabilities of all human rights and fundamental freedoms on an equal basis with other children; 2. In all actions concerning children with disabilities, the best interests of the child shall be a primary consideration.; 3. States Parties shall ensure that children with disabilities have the right to express their views freely on all matters affecting them, their views being given due weight in accordance with their age and maturity, on an equal basis with other children, and to be provided with disability and age-appropriate assistance to realize that right.
+
+
+"
+7,Crpd Article 7 ,Has subtopic ,equity 
+7,equity ,has definition (disability wiki) ,the quality of being fair and impartial
+7,Crpd Article 7 ,Has subtopic,children 
+7,Children ,Has wikidata code,Q7569
+,Children ,Mentioned in crpd article,7
+7,Children ,Has wikidata definition,Human between the stages of birth and puberty
+7,Crpd Article 7 ,Has crpd definition,children with disabilities receive equal rights to all other children; the best interests of the child shall be a primary consideration
+7,Crpd Article 7 ,Has subtopic,freedom of expression 
+7,freedom of expression ,requires-wikidata-definition-extension,"children with disabilities have the right to express their views freely on all matters affecting them, their views being given due weight in accordance with their age and maturity, on an equal basis with other children, and to be provided with disability and age-appropriate assistance to realize that right."
+8,Crpd Article 8,Has crpd definition,"1States Parties undertake to adopt immediate, effective and appropriate measures: To raise awareness throughout society, including at the family level, regarding persons with disabilities, and to foster respect for the rights and dignity of persons with disabilities; To combat stereotypes, prejudices and harmful practices relating to persons with disabilities, including those based on sex and age, in all areas of life; To promote awareness of the capabilities and contributions of persons with disabilities; Measures to this end include: Initiating and maintaining effective public awareness campaigns designed: To nurture receptiveness to the rights of persons with disabilities;  To promote positive perceptions and greater social awareness towards persons with disabilities; to promote recognition of the skills, merits and abilities of persons with disabilities, and of their contributions to the workplace and the labour market; Fostering at all levels of the education system, including in all children from an early age, an attitude of respect for the rights of persons with disabilities; Encouraging all organs of the media to portray persons with disabilities in a manner consistent with the purpose of the present Convention; Promoting  awareness-training programmes regarding persons with disabilities and the rights of persons with disabilities."
+8,Crpd Article 8,Has subtopic ,equity 
+8,equity ,has definition (disability wiki) ,the quality of being fair and impartial
+8,Crpd Article 8,Has subtopic,awareness -raising   
+8,awareness -raising   ,Has wikidata code,Missing
+8,awareness -raising   ,Has crpd definition,"awareness -raising is to aisle awareness throughout society, including at the family level, regarding persons with disabilities, and to foster respect for the rights and dignity of persons with disabilities; To combat stereotypes, prejudices and harmful practices relating to persons with disabilities. It is meant to  combat stereotypes, prejudices and harmful practices relating to persons with disabilities, including those based on sex and age, in all areas of life; To promote positive perceptions and greater social awareness towards persons with disabilities; to promote recognition of the skills, merits and abilities of persons with disabilities, and of their contributions to the workplace and the labour market; Fostering at all levels of the education system, including in all children from an early age, an attitude of respect for the rights of persons with disabilities;"
+8,Crpd Article 8,Has subtopic,media 
+,media ,Mentioned in crpd article,8
+8,media ,Has wikidata code,Q11033
+8,media ,Has wikidata definition,media technologies that are intended to reach a large audience by mass communication
+8,media ,Has crpd definition,Encourage  all organs of the media to portray persons with disabilities in a manner consistent with the purpose of the present Convention;
+9,Crpd Article 9,Has crpd text,"1. To enable persons with disabilities to live independently and participate fully in all aspects of life, States Parties shall take appropriate measures to ensure to persons with disabilities access, on an equal basis with others, to the physical environment, to transportation, to information and communications, including information and communications technologies and systems, and to other facilities and services open or provided to the public, both in urban and in rural areas. These measures, which shall include the identification and elimination of obstacles and barriers to accessibility, shall apply to, inter alia:  Buildings, roads, transportation and other indoor and outdoor facilities, including schools, housing, medical facilities and workplaces; 
+b) Information, communications and other services, including electronic services and emergency services. States Parties shall also take appropriate measures: To develop, promulgate and monitor the implementation of minimum standards and guidelines for the accessibility of facilities and services open or provided to the public; To ensure that private entities that offer facilities and services which are open or provided to the public take into account all aspects of accessibility for persons with disabilities; To provide training for stakeholders on accessibility issues facing persons with disabilities; To provide in buildings and other facilities open to the public signage in Braille and in easy to read and understand forms; To provide forms of live assistance and intermediaries, including guides, readers and professional sign language interpreters, to facilitate accessibility to buildings and other facilities open to the public; To promote other appropriate forms of assistance and support to persons with disabilities to ensure their access to information;  To promote access for persons with disabilities to new information and communications technologies and systems, including the Internet; o promote the design, development, production and distribution of accessible information and communications technologies and systems at an early stage, so that these technologies and systems become accessible at minimum cost.
+"
+9,equity ,Has subtopic ,equity 
+9,equity ,has definition (disability wiki) ,the quality of being fair and impartial
+9,accessibility ,Has wikidata code,Q555097
+,accessibility ,Mentioned in crpd article,9
+9,accessibility ,Has wikidata definition,design of products or services for people with temporary or permanent impairments
+9,accessibility ,Has crpd definition,"accessibility as it relates to information communication, transportation, built environment "
+10,Crpd Article 10,Has crpd text,"States Parties reaffirm that every human being has the inherent right to life and shall take all necessary measures to ensure its effective enjoyment by persons with disabilities on an equal basis with others.
+"
+10,Crpd Article 10,Has subtopic ,equity 
+10,Crpd Article 10,Has subtopic,right to life 
+,right to life ,Mentioned in crpd article,10
+10,right to life ,Has wikidata code,Q25822
+10,right to life ,Has wikidata definition,belief that a human being has an essential right to live
+11,Crpd Article 11,Has crpd text,"States Parties shall take, in accordance with their obligations under international law, including international humanitarian law and international human rights law, all necessary measures to ensure the protection and safety of persons with disabilities in situations of risk, including situations of armed conflict, humanitarian emergencies and the occurrence of natural disasters."
+11,Crpd Article 11,Has subtopic ,equity 
+11,Crpd Article 11,has wiki data code ,missing
+11,equity ,has definition (disability wiki) ,the quality of being fair and impartial
+11,Crpd Article 11,Has subtopic,humanitarian emergencies
+11,humanitarian emergencies,Has wikidata code,missing 
+,humanitarian emergencies,Mentioned in crpd article,11
+11,humanitarian emergencies,Has crpd definition,people with disabilities must be protected in humanitarian crisis such as armed conflict and natural disasters 
+11,natural disaster ,Has subtopic,Natural disaster
+,natural disaster ,Mentioned in crpd article,11
+11,natural disaster ,Has wikidata code,Q8065
+11,natural disaster ,Has wikidata definition,"major adverse event resulting from natural processes of the Earth, which may cause loss of life or property"
+12,natural disaster ,Has crpd definition,"1. States Parties reaffirm that persons with disabilities have the right to recognition everywhere as persons before the law; 2. States Parties shall recognize that persons with disabilities enjoy legal capacity on an equal basis with others in all aspects of life; States Parties shall take appropriate measures to provide access by persons with disabilities to the support they may require in exercising their legal capacity; States Parties shall ensure that all measures that relate to the exercise of legal capacity provide for appropriate and effective safeguards to prevent abuse in accordance with international human rights law. Such safeguards shall ensure that measures relating to the exercise of legal capacity respect the rights, will and preferences of the person, are free of conflict of interest and undue influence, are proportional and tailored to the person?s circumstances, apply for the shortest time possible and are subject to regular review by a competent, independent and impartial authority or judicial body. The safeguards shall be proportional to the degree to which such measures affect the person?s rights and interests; Subject to the provisions of this article, States Parties shall take all appropriate and effective measures to ensure the equal right of persons with disabilities to own or inherit property, to control their own financial affairs and to have equal access to bank loans, mortgages and other forms of financial credit, and shall ensure that persons with disabilities are not arbitrarily deprived of their property."
+12,Crpd Article 12,Has subtopic ,equity 
+12,equity ,has definition (disability wiki) ,the quality of being fair and impartial
+12,equity,has wiki data code ,missing
+12,Crpd Article 12,Has subtopic,legal capacity 
+,legal capacity ,Mentioned in crpd article,12
+12,legal capacity ,Has wikidata code,Q889137
+,legal capacity ,Mentioned in crpd article,12
+12,legal capacity ,Has wikidata definition,Missing
+12,legal capacity ,Has crpd definition,persons with disabilities have the right to recognition everywhere as persons before the law; States Parties shall take appropriate measures to provide access by persons with disabilities to the support they may require in exercising their legal capacity; States Parties shall ensure that all measures that relate to the exercise of legal capacity provide for appropriate and effective safeguards to prevent abuse in accordance with international human rights law.
+13,Crpd Article 13,Has subtopic,access to justice 
+,access to justice ,Mentioned in crpd article,13
+13,equity,has wiki data code ,missing
+13,Crpd Article 13,Has subtopic ,equity 
+13,equity ,has definition (disability wiki) ,the quality of being fair and impartial
+13,access to justice ,Has wikidata code,Missing
+13,access to justice ,Has crpd definition,persons with disabilities have the right to recognition everywhere as persons before the law
+14,Crpd Article 14 ,Has crpd text,"1. States Parties shall ensure that persons with disabilities, on an equal basis with others: a) Enjoy the right to liberty and security of person; Are not deprived of their liberty unlawfully or arbitrarily, and that any deprivation of liberty is in conformity with the law, and that the existence of a disability shall in no case justify a deprivation of liberty. States Parties shall ensure that if persons with disabilities are deprived of their liberty through any process, they are, on an equal basis with others, entitled to guarantees in accordance with international human rights law and shall be treated in compliance with the objectives and principles of the present Convention, including by provision of reasonable accommodation."
+14,Crpd Article 14 ,Has subtopic,liberty (and security of person)
+,liberty ,Mentioned in crpd article,14
+14,Crpd Article 14 ,Has subtopic ,equity 
+14,equity ,has definition (disability wiki) ,the quality of being fair and impartial
+14,equity,has wiki data code ,missing
+,,,
+14,liberty ,Has wikidata code,Q2979
+14,liberty ,Has wikidata definition,ability of individuals to have agency
+14,liberty ,Has crpd definition,"people with disabilities are not deprived of their liberty unlawfully or arbitrarily, and that any deprivation of liberty is in conformity with the law, and that the existence of a disability shall in no case justify a deprivation of liberty. People with disabilities are entitled to guarantees in accordance with international human rights law and shall be treated in compliance with the objectives and principles of the present Convention."
+14,Crpd Article 14 ,Has subtopic,security of person 
+,security of person ,Mentioned in crpd article,14
+14,security of person ,Has wikidata code,Q7445060
+14,security of person ,Has wikidata definition,"a basic entitlement guaranteed by the Universal Declaration of Human Rights, adopted by the United Nations in 1948"
+14,Security of person ,requires -wikidata-definition-extension,Need legal advice 
+15,Crpd Article 15,Has crpd text,"1. No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment. In particular, no one shall be subjected without his or her free consent to medical or scientific experimentation. 2. States Parties shall take all effective legislative, administrative, judicial or other measures to prevent persons with disabilities, on an equal basis with others, from being subjected to torture or cruel, inhuman or degrading treatment or punishment."
+15,Crpd Article 15,Has subtopic ,equity 
+15,Crpd Article 15,Has subtopic,"freedom from torture or cruel, inhuman or degrading treatment or punishment "
+15,"freedom from torture or cruel, inhuman or degrading treatment or punishment ",Has wikidata code,Q83644235
+,"freedom from torture or cruel, inhuman or degrading treatment or punishment ",Mentioned in crpd article,15
+15,"freedom from torture or cruel, inhuman or degrading treatment or punishment ",Has wikidata definition,freedom from torture and inhuman or degrading treatment freedom from torture
+16,Crpd Article 16,Has crpd text,"1. States Parties shall take all appropriate legislative, administrative, social, educational and other measures to protect persons with disabilities, both within and outside the home, from all forms of exploitation, violence and abuse, including their gender-based aspects.
+2. States Parties shall also take all appropriate measures to prevent all forms of exploitation, violence and abuse by ensuring, inter alia, appropriate forms of gender- and age-sensitive assistance and support for persons with disabilities and their families and caregivers, including through the provision of information and education on how to avoid, recognize and report instances of exploitation, violence and abuse. States Parties shall ensure that protection services are age-, gender- and disability-sensitive.
+3. In order to prevent the occurrence of all forms of exploitation, violence and abuse, States Parties shall ensure that all facilities and programmes designed to serve persons with disabilities are effectively monitored by independent authorities.
+4. States Parties shall take all appropriate measures to promote the physical, cognitive and psychological recovery, rehabilitation and social reintegration of persons with disabilities who become victims of any form of exploitation, violence or abuse, including through the provision of protection services. Such recovery and reintegration shall take place in an environment that fosters the health, welfare, self-respect, dignity and autonomy of the person and takes into account gender- and age-specific needs.
+5. States Parties shall put in place effective legislation and policies, including women- and child-focused legislation and policies, to ensure that instances of exploitation, violence and abuse against persons with disabilities are identified, investigated and, where appropriate, prosecuted.
+"
+16,Crpd Article 16,Has subtopic,freedom from violence 
+16,Crpd Article 16,Has subtopic ,equity 
+16,equity ,has definition (disability wiki) ,the quality of being fair and impartial
+16,equity,has wiki data code ,missing
+,freedom from violence ,Mentioned in crpd article,16
+16,freedom from violence ,Has wikidata code,missing
+17,Crpd Article 17 ,Has subtopic,integrity 
+17,Crpd Article 17 ,Has subtopic,equity 
+,integrity ,Mentioned in crpd article,17
+17,integrity ,Has wikidata code,Q1329012
+17,integrity ,Has wikidata definition,"concept of consistency of actions, values, methods, measures, principles, expectations, and outcomes"
+17,integrity ,Has crpd definition,respect  integrity based on physical or mental disability 
+18,Crpd Article 18 ,Has crpd text," 1. States Parties shall recognize the rights of persons with disabilities to liberty of movement, to freedom to choose their residence and to a nationality, on an equal basis with others, including by ensuring that persons with disabilities:
+a) Have the right to acquire and change a nationality and are not deprived of their nationality arbitrarily or on the basis of disability;
+b) Are not deprived, on the basis of disability, of their ability to obtain, possess and utilize documentation of their nationality or other documentation of identification, or to utilize relevant processes such as immigration proceedings, that may be needed to facilitate exercise of the right to liberty of movement;
+c) Are free to leave any country, including their own;
+d) Are not deprived, arbitrarily or on the basis of disability, of the right to enter their own country.
+2. Children with disabilities shall be registered immediately after birth and shall have the right from birth to a name, the right to acquire a nationality and, as far as possible, the right to know and be cared for by their parents.
+"
+18,Crpd Article 18 ,Has subtopic,liberty 
+18,Crpd Article 18 ,Has subtopic,equity 
+18,equity ,has definition (disability wiki) ,the quality of being fair and impartial
+18,equity,has wiki data code ,missing
+,liberty ,Mentioned in crpd article,18
+18,liberty ,Has wikidata definition,ability of individuals to have agency
+18,liberty ,Has wikidata code,Q2979
+18,liberty ,Has crpd definition,Q code does not have freedom of movement 
+18,Crpd Article 18 ,Has subtopic,nationality 
+,nationality ,Mentioned in crpd article,18
+18,nationality ,Has wikidata code,Q231002
+18,nationality ,Has wikidata definition,usually a person's nationality is usually acquired at birth by descent from either parent to those born within the territory of the state.
+19,Crpd Article 19,Has crpd text," States Parties to the present Convention recognize the equal right of all persons with disabilities to live in the community, with choices equal to others, and shall take effective and appropriate measures to facilitate full enjoyment by persons with disabilities of this right and their full inclusion and participation in the community, including by ensuring that:a) Persons with disabilities have the opportunity to choose their place of residence and where and with whom they live on an equal basis with others and are not obliged to live in a particular living arrangement) Persons with disabilities have access to a range of in-home, residential and other community support services, including personal assistance necessary to support living and inclusion in the community, and to prevent isolation or segregation from the community's) Community services and facilities for the general population are available on an equal basis to persons with disabilities and are responsive to their needs.
+
+
+
+"
+19,Crpd Article 19,Has subtopic,equity 
+19,equity ,has definition (disability wiki) ,the quality of being fair and impartial
+19,equity,has wiki data code ,missing
+19,Crpd Article 19,Has subtopic,independent living 
+,Independent living ,Mentioned in crpd article,19
+19,Independent living ,Has wikidata code,Q1373709
+19,Independent living ,Has crpd definition,personal mobility with the greatest possible independence  for people with disabilities must be ensured. Autonomy of choice and abortable cost must be considered. 
+20,Crpd Article 20,Has crpd text,"  States Parties shall take effective measures to ensure personal mobility with the greatest possible independence for persons with disabilities, including by:
+a) Facilitating the personal mobility of persons with disabilities in the manner and at the time of their choice, and at affordable cost;
+b) Facilitating access by persons with disabilities to quality mobility aids, devices, assistive technologies and forms of live assistance and intermediaries, including by making them available at affordable cost;
+c) Providing training in mobility skills to persons with disabilities and to specialist staff working with persons with disabilities;
+d) Encouraging entities that produce mobility aids, devices and assistive technologies to take into account all aspects of mobility for persons with disabilities.
+"
+20,Crpd Article 20,Has subtopic,personal mobility 
+20,Crpd Article 20,Has subtopic,equity 
+20,equity ,has definition (disability wiki) ,the quality of being fair and impartial
+20,equity,has wiki data code ,missing
+,personal mobility ,Mentioned in crpd article,20
+20,personal mobility ,Has wikidata code,missing
+20,personal mobility ,has definition (disability wiki) ,freedom and autonomy over ones movement 
+21,Crpd Article 21,Has crpd text,"  States Parties shall take all appropriate measures to ensure that persons with disabilities can exercise the right to freedom of expression and opinion, including the freedom to seek, receive and impart information and ideas on an equal basis with others and through all forms of communication of their choice, as defined in article 2 of the present Convention, including by:
+a) Providing information intended for the general public to persons with disabilities in accessible formats and technologies appropriate to different kinds of disabilities in a timely manner and without additional cost;
+b) Accepting and facilitating the use of sign languages, Braille, augmentative and alternative communication, and all other accessible means, modes and formats of communication of their choice by persons with disabilities in official interactions;
+c) Urging private entities that provide services to the general public, including through the Internet, to provide information and services in accessible and usable formats for persons with disabilities;
+d) Encouraging the mass media, including providers of information through the Internet, to make their services accessible to persons with disabilities;
+e) Recognizing and promoting the use of sign languages.
+"
+21,Crpd Article 21 ,Has subtopic,equity 
+21,equity ,has definition (disability wiki) ,the quality of being fair and impartial
+21,equity,has wiki data code ,missing
+21,Crpd Article 21,Has subtopic,freedom of expression 
+,freedom of expression ,Mentioned in crpd article,21
+21,freedom of expression ,Has wikidata code,missing
+21,freedom of expression ,has definition (disability wiki) ,right to hold your own opinions and to express them freely without government interference
+21,Crpd Article 21,Has subtopic,access to information 
+21,access to information ,Has wikidata code,Q55603120
+,access to information ,Mentioned in crpd article,21
+21,access to information ,Has wikidata definition,"ability for an individual to seek, receive, and impart information effectively"
+21,access to information ,Has crpd definition,"People with disabilities should be provided with sign languages, Braille, augmentative and alternative communication, and all other accessible means, modes and formats of communication of their choice by persons with disabilities in official interactions;"
+22,Crpd Article 22,Has crpd text," 1. No person with disabilities, regardless of place of residence or living arrangements, shall be subjected to arbitrary or unlawful interference with his or her privacy, family, home or correspondence or other types of communication or to unlawful attacks on his or her honor and reputation. Persons with disabilities have the right to the protection of the law against such interference or attacks; 2. States Parties shall protect the privacy of personal, health and rehabilitation information of persons with disabilities on an equal basis with others."
+22,Crpd Article 22,Has subtopic,right to privacy 
+,right to privacy ,has wiki data code ,Q8354932
+22,right to privacy ,Has wikidata definition,legal tradition restraining actions threatening individual privacy
+22,Crpd Article 22 ,Has subtopic,equity 
+22,equity ,has definition (disability wiki) ,the quality of being fair and impartial
+22,equity,has wiki data code ,missing
+22,right to privacy ,Has wikidata definition,legal tradition restraining actions threatening individual privacy
+22,right to privacy ,Has wikidata code,Q8354932
+,right to privacy ,Mentioned in crpd article,22
+23,Crpd Article 23,Has crpd text,"  1. States Parties shall take effective and appropriate measures to eliminate discrimination against persons with disabilities in all matters relating to marriage, family, parenthood and relationships, on an equal basis with others, so as to ensure that:
+a) The right of all persons with disabilities who are of marriageable age to marry and to found a family on the basis of free and full consent of the intending spouses is recognized;
+b) The rights of persons with disabilities to decide freely and responsibly on the number and spacing of their children and to have access to age-appropriate information, reproductive and family planning education are recognized, and the means necessary to enable them to exercise these rights are provided;
+c) Persons with disabilities, including children, retain their fertility on an equal basis with others.
+2. States Parties shall ensure the rights and responsibilities of persons with disabilities, with regard to guardianship, wardship, trusteeship, adoption of children or similar institutions, where these concepts exist in national legislation; in all cases the best interests of the child shall be paramount. States Parties shall render appropriate assistance to persons with disabilities in the performance of their child-rearing responsibilities.
+3. States Parties shall ensure that children with disabilities have equal rights with respect to family life. With a view to realizing these rights, and to prevent concealment, abandonment, neglect and segregation of children with disabilities, States Parties shall undertake to provide early and comprehensive information, services and support to children with disabilities and their families.
+4. States Parties shall ensure that a child shall not be separated from his or her parents against their will, except when competent authorities subject to judicial review determine, in accordance with applicable law and procedures, that such separation is necessary for the best interests of the child. In no case shall a child be separated from parents on the basis of a disability of either the child or one or both of the parents.
+5. States Parties shall, where the immediate family is unable to care for a child with disabilities, undertake every effort to provide alternative care within the wider family, and failing that, within the community in a family setting.
+"
+23,Crpd Article 23 ,Has subtopic,equity 
+22,equity ,has definition (disability wiki) ,the quality of being fair and impartial
+22,equity,has wiki data code ,missing
+23,Crpd Article 23 ,Has subtopic,respect for home and family 
+,respect for home and family ,Mentioned in crpd article,23
+23,respect for home and family ,Has wikidata code,missing 
+23,respect for home and family ,requires - wiki data - definition ,"Discuss with Racheal: Discrimination must be eliminated in all areas related to   marriage, family, parenthood and relationships, on an equal basis with others, access to age appropriate family planning information, retain fertility, retain guardianship, prevent abandonment and neglect, separation is subject to judicial review; where the immediate family is unable to care for a child with disabilities, undertake every effort to provide alternative care within the wider family, and failing that, within the community in a family setting."
+24,Crpd Article 24 ,Has crpd text,"  1. States Parties recognize the right of persons with disabilities to education. With a view to realizing this right without discrimination and on the basis of equal opportunity, States Parties shall ensure an inclusive education system at all levels and lifelong learning directed to:  
+a. The full development of human potential and sense of dignity and self-worth, and the strengthening of respect for human rights, fundamental freedoms and human diversity;
+b. The development by persons with disabilities of their personality, talents and creativity, as well as their mental and physical abilities, to their fullest potential;
+c. Enabling persons with disabilities to participate effectively in a free society.
+2. In realizing this right, States Parties shall ensure that:
+a) Persons with disabilities are not excluded from the general education system on the basis of disability, and that children with disabilities are not excluded from free and compulsory primary education, or from secondary education, on the basis of disability;
+b) Persons with disabilities can access an inclusive, quality and free primary education and secondary education on an equal basis with others in the communities in which they live;
+c) Reasonable accommodation of the individual?s requirements is provided;
+d) Persons with disabilities receive the support required, within the general education system, to facilitate their effective education;
+e) Effective individualized support measures are provided in environments that maximize academic and social development, consistent with the goal of full inclusion.
+3. States Parties shall enable persons with disabilities to learn life and social development skills to facilitate their full and equal participation in education and as members of the community. To this end, States Parties shall take appropriate measures, including:
+a) Facilitating the learning of Braille, alternative script, augmentative and alternative modes, means and formats of communication and orientation and mobility skills, and facilitating peer support and mentoring;
+b) Facilitating the learning of sign language and the promotion of the linguistic identity of the deaf community;
+c) Ensuring that the education of persons, and in particular children, who are blind, deaf or deafblind, is delivered in the most appropriate languages and modes and means of communication for the individual, and in environments which maximize academic and social development.
+4. In order to help ensure the realization of this right, States Parties shall take appropriate measures to employ teachers, including teachers with disabilities, who are qualified in sign language and/or Braille, and to train professionals and staff who work at all levels of education. Such training shall incorporate disability awareness and the use of appropriate augmentative and alternative modes, means and formats of communication, educational techniques and materials to support persons with disabilities.
+5. States Parties shall ensure that persons with disabilities are able to access general tertiary education, vocational training, adult education and lifelong learning without discrimination and on an equal basis with others. To this end, States Parties shall ensure that reasonable accommodation is provided to persons with disabilities.
+"
+24,Crpd Article 24 ,Has subtopic,equity 
+22,equity ,has definition (disability wiki) ,the quality of being fair and impartial
+22,equity,has wiki data code ,missing
+24,Crpd Article 24 ,Has subtopic,education 
+,education ,Mentioned in crpd article,24
+24,education ,Has wikidata code,Q8434
+24,education ,Has wikidata definition-extension,extremely lacking - ask Rachel for advice 
+24,education ,Has wikidata definition,learning in which knowledge and skills are transferred through teaching
