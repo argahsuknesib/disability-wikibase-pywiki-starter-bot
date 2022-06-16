@@ -9,9 +9,6 @@ import traceback
 
 import pywikibot
 from SPARQLWrapper import SPARQLWrapper, JSON
-from pywikibot import config2
-
-from logger import DebugLogger
 
 appConfig = configparser.ConfigParser()
 appConfig.read('config/application.config.ini')
@@ -29,13 +26,13 @@ config2.usernames['my']['my'] = appConfig.get('wikibase', 'user')
 wikibase = pywikibot.Site("my", "my")
 wikibase_repo = wikibase.data_repository()
 
-
 sparql = SPARQLWrapper(appConfig.get('wikibase', 'sparqlEndPoint'))
 site = pywikibot.Site()
 
 
 def capitaliseFirstLetter(word):
     return word.capitalize().rstrip()
+
 
 # get items with sparql
 
@@ -57,6 +54,7 @@ def getWikiItemSparql(label):
     print(results)
     return results
 
+
 # Searches a concept based on its label with a API call
 
 
@@ -73,10 +71,10 @@ def searchWikiItem(label):
 
 
 def createProperty(label, description, datatype, property_map):
-    if (capitaliseFirstLetter(label.rstrip()) in property_map):
+    if capitaliseFirstLetter(label.rstrip()) in property_map:
         return property_map
     property_result = getWikiItemSparql(capitaliseFirstLetter(label.rstrip()))
-    if (len(property_result['results']['bindings']) == 0):
+    if len(property_result['results']['bindings']) == 0:
         data = {
             'datatype': datatype,  # mandatory
             'descriptions': {
@@ -112,16 +110,16 @@ def createProperty(label, description, datatype, property_map):
 
 
 def createPropertyV2(labelStr, label, description, datatype, aliases, property_map):
-    if (capitaliseFirstLetter(labelStr.rstrip()) in property_map):
+    if capitaliseFirstLetter(labelStr.rstrip()) in property_map:
         return property_map
     property_result = getWikiItemSparql(
         capitaliseFirstLetter(labelStr.rstrip()))
-    if (len(property_result['results']['bindings']) == 0):
+    if len(property_result['results']['bindings']) == 0:
         data = {}
         print(f"creating property {labelStr} ")
         data['labels'] = label
         data['descriptions'] = description
-        if(len(aliases) > 0):
+        if len(aliases) > 0:
             data['aliases'] = aliases
         new_property = pywikibot.PropertyPage(wikibase_repo, datatype=datatype)
         new_property.editEntity(data)
@@ -135,7 +133,7 @@ def createPropertyV2(labelStr, label, description, datatype, aliases, property_m
         print(f"creating property {labelStr} ")
         data['labels'] = label
         data['descriptions'] = description
-        if (len(aliases) > 0):
+        if len(aliases) > 0:
             data['aliases'] = aliases
         exist_property = pywikibot.PropertyPage(
             wikibase_repo, property_result['results']['bindings'][0]['s']['value'].split("/")[-1])
@@ -165,7 +163,7 @@ def readFileAndProcess():
                     aliases = ""
                     if not row[2]:
                         description = {"en": capitaliseFirstLetter(
-                            row[0]).rstrip()+" : property"}
+                            row[0]).rstrip() + " : property"}
                     else:
                         description = {
                             "en": capitaliseFirstLetter(row[2]).rstrip()}
@@ -179,13 +177,7 @@ def readFileAndProcess():
                     property_map = createPropertyV2(
                         labelStr, label, description, datatype, aliases, property_map)
                 except Exception as e:
-                    err_msg = f"ERROR : Entity:  {row[1].rstrip()} , Property {row[2].rstrip()}  Line count: {line_count}"
-                    exc_type, exc_obj, exc_tb = sys.exc_info()
-                    tb = traceback.extract_tb(exc_tb)[-1]
-                    err_trace = f"ERROR_TRACE >>>: + {exc_type} , method: {tb[2]} , line-no: {tb[1]}"
-                    logger = DebugLogger()
-                    logger.logError('CREATE_ITEM', e, exc_type,
-                                    exc_obj, exc_tb, tb, err_msg)
+                    print(e)
                 line_count += 1
         print(f'Completed Creating Properties total of {line_count} ')
 

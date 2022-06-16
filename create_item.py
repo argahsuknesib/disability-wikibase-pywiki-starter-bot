@@ -2,13 +2,8 @@
 
 import configparser
 import csv
-import sys
-import traceback
-import time
 import pywikibot
 from SPARQLWrapper import SPARQLWrapper, JSON
-
-from logger import DebugLogger
 
 config = configparser.ConfigParser()
 config.read('config/application.config.ini')
@@ -31,7 +26,7 @@ class Create_item:
         for label in labels:
             object_result = self.getWikiItemSparql(
                 self.capitaliseFirstLetter(label).rstrip())
-            if (len(object_result['results']['bindings']) > 0):
+            if len(object_result['results']['bindings']) > 0:
                 object_uri = object_result['results']['bindings'][0]['s']['value']
                 object_id = object_uri.split("/")[-1]
                 object_item = pywikibot.ItemPage(self.wikibase_repo, object_id)
@@ -66,9 +61,9 @@ class Create_item:
         request = self.wikibase._simple_request(**params)
         result = request.submit()
         print(result)
-        if(len(result['search']) > 0):
+        if len(result['search']) > 0:
             for item in result['search']:
-                if (item.get('label') == label):
+                if item.get('label') == label:
                     return True
         return False
 
@@ -136,7 +131,7 @@ class Create_item:
             self.capitaliseFirstLetter(key.rstrip()))
         isExistAPI = self.searchWikiItem(
             self.capitaliseFirstLetter(key.rstrip()))
-        if (len(entity['results']['bindings']) == 0 and not isExistAPI):
+        if len(entity['results']['bindings']) == 0 and not isExistAPI:
             data = {}
             print(f"inserting concept {key.rstrip()}")
             data['labels'] = label
@@ -247,13 +242,8 @@ class Create_item:
                         entity_list = self.createItem(
                             labels, descriptions, row[0].rstrip().lstrip(), entity_list)
                     except Exception as e:
-                        err_msg = f"ERROR :Create Concept:  {row[0].rstrip()} Row count: {line_count}"
-                        exc_type, exc_obj, exc_tb = sys.exc_info()
-                        tb = traceback.extract_tb(exc_tb)[-1]
-                        err_trace = f"ERROR_TRACE >>>: + {exc_type} , method: {tb[2]} , line-no: {tb[1]}"
-                        logger = DebugLogger()
-                        logger.logError('CREATE_ITEM', e, exc_type,
-                                        exc_obj, exc_tb, tb, err_msg)
+                        print(e)
+                        print(f"error in line no {line_count}")
                     line_count += 1
 
 
