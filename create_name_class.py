@@ -8,8 +8,6 @@ import time
 import pywikibot
 from SPARQLWrapper import SPARQLWrapper, JSON
 
-from logger import DebugLogger
-
 config = configparser.ConfigParser()
 config.read('config/application.config.ini')
 
